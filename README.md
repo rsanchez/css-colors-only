@@ -77,19 +77,19 @@ npm install -g css-colors-only
 ## Usage
 
 ```
-colors-only input.css output.css
+css-colors-only input.css output.css
 ```
 
 Use the `--without-grey` or `--without-monochrome` flag(s):
 
 ```
-colors-only input.css output.css --without-grey
+css-colors-only input.css output.css --without-grey
 ```
 
 Print directly to stdout:
 
 ```
-colors-only input.css
+css-colors-only input.css
 ```
 
 ## License

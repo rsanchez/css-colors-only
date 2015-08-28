@@ -1,6 +1,6 @@
 {
   "name": "css-colors-only",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Command line tool to remove all CSS rules except those which contain one or more colors.",
   "main": "index.js",
   "bin": "./cli.js",
@@ -20,7 +20,7 @@
   "homepage": "https://github.com/rsanchez/css-colors-only",
   "dependencies": {
     "postcss": "^5.0.2",
-    "postcss-colors-only": "0.0.0",
+    "postcss-colors-only": "~0",
     "yargs": "^3.21.0"
   },
   "devDependencies": {
